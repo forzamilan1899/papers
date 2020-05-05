@@ -1,0 +1,24 @@
+¹È¸èË«Ëþ
+²ÉÑù£º
+[4] Yoshua Bengio and Jean-S¨¦bastien S¨¦n¨¦cal. 2003. Quick Training of Probabilistic
+Neural Nets by Importance Sampling. In Proceedings of the conference on Artifcial
+Intelligence and Statistics (AISTATS).
+[5] Y. Bengio and J. S. Senecal. 2008. Adaptive Importance Sampling to Accelerate
+Training of a Neural Probabilistic Language Model. Trans. Neur. Netw. 19, 4 (April
+2008), 713¨C722. https://doi.org/10.1109/TNN.2007.912312
+
+
+[6] Alex Beutel, Paul Covington, Sagar Jain, Can Xu, Jia Li, Vince Gatto, and Ed H.
+Chi. 2018. Latent Cross: Making Use of Context in Recurrent Recommender
+Systems. In Proceedings of the Eleventh ACM International Conference on Web
+Search and Data Mining (WSDM ¡¯18). ACM, New York, NY, USA, 46¨C54. https:
+//doi.org/10.1145/3159652.3159727
+
+[21] Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat-Seng
+Chua. 2017. Neural Collaborative Filtering. In Proceedings of the 26th International
+Conference on World Wide Web (WWW ¡¯17). International World Wide Web
+Conferences Steering Committee, Republic and Cant
+
+Bal¨¢zs Hidasi, Alexandros Karatzoglou, Linas Baltrunas, and Domonkos Tikk.
+2016. Session-based Recommendations with Recurrent Neural Networks. In The
+International Conference on Learning Representations (ICLR 2016)
